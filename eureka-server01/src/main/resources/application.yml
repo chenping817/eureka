@@ -1,0 +1,21 @@
+
+spring:
+  application:
+    name: server8761
+server:
+  port: 8761
+eureka:
+  client:
+    service-url:
+       defaultZone: http://localhost:8762/eureka/
+    register-with-eureka: false
+    fetch-registry: true
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 4000
+#security:
+#  basic:
+#    enabled: true
+#  user:
+#    name: user
+#    password: password123
