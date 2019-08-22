@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/chenping817/config-repo.git
+          search-paths: config-repo
+          username: chenping817
+          password: talkweb@147258

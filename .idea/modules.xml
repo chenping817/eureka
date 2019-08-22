@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer/demo (1).iml" filepath="$PROJECT_DIR$/eureka-customer/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-producter/demo (2).iml" filepath="$PROJECT_DIR$/eureka-producter/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider/demo (3).iml" filepath="$PROJECT_DIR$/eureka-provider/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server01/demo (4).iml" filepath="$PROJECT_DIR$/eureka-server01/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server02/demo (5).iml" filepath="$PROJECT_DIR$/eureka-server02/demo (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/demo (6).iml" filepath="$PROJECT_DIR$/feign/demo (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config-client/eureka-config-client.iml" filepath="$PROJECT_DIR$/eureka-config-client/eureka-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-customer/eureka-customer.iml" filepath="$PROJECT_DIR$/eureka-customer/eureka-customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-producter/eureka-producter.iml" filepath="$PROJECT_DIR$/eureka-producter/eureka-producter.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-provider/eureka-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server01/eureka-server01.iml" filepath="$PROJECT_DIR$/eureka-server01/eureka-server01.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server02/eureka-server02.iml" filepath="$PROJECT_DIR$/eureka-server02/eureka-server02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eureka3.iml" filepath="$PROJECT_DIR$/.idea/eureka3.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
     </modules>
   </component>

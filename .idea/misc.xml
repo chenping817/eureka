@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/eureka-customer/pom.xml" />
         <option value="$PROJECT_DIR$/feign/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-producter/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-config-client/pom.xml" />
       </list>
     </option>
   </component>

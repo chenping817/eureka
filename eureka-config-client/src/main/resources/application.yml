@@ -1,0 +1,15 @@
+
+spring:
+  application:
+    name: spring-cloud-config-client
+server:
+  port: 8082
+#  手工刷新访问：http://localhost:8082/actuator/refresh
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+test:
+  name: chenp

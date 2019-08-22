@@ -59,8 +59,72 @@
         <processorPath useClasspath="true" />
         <module name="eureka-producter" />
       </profile>
+      <profile default="false" name="Annotation profile for demo (6)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (6)" />
+      </profile>
+      <profile default="false" name="Annotation profile for demo (3)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (3)" />
+      </profile>
+      <profile default="false" name="Annotation profile for demo (2)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (2)" />
+      </profile>
+      <profile default="false" name="Annotation profile for demo (4)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (4)" />
+      </profile>
+      <profile default="false" name="Annotation profile for demo (5)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (5)" />
+      </profile>
+      <profile default="false" name="Annotation profile for demo (1)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="demo (1)" />
+      </profile>
+      <profile default="false" name="Annotation profile for eureka-config-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="eureka-config-server" />
+      </profile>
+      <profile default="false" name="Annotation profile for eureka-config-client" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="eureka-config-client" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
+      <module name="demo (4)" target="1.8" />
+      <module name="demo (5)" target="1.8" />
+      <module name="demo (6)" target="1.8" />
+      <module name="eureka-config-client" target="1.8" />
+      <module name="eureka-config-server" target="1.8" />
       <module name="eureka-customer" target="1.8" />
       <module name="eureka-producter" target="1.8" />
       <module name="eureka-provider" target="1.8" />
